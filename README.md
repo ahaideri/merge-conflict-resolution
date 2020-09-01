@@ -10,7 +10,7 @@ To merge using GitHub Desktop -
 ![image.png](/screenshots/screen1.png)
 
   - Choose the branch ( _'branch1'_ ) and click on _'Merge'_. Note that you can already see that there will be a conflict
-![image.png](attachment:image.png)
+![image.png](attachment:screen2.png) ![image.png](attachment:screen2.png)
 
   - Click on _'Open in Atom'_.
   ![image.png](attachment:image.png)
