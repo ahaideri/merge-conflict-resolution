@@ -12,7 +12,7 @@ To merge using GitHub Desktop -
   - Choose the branch ( _'branch1'_ ) and click on _'Merge'_. Note that you can already see that there will be a conflict
 ![image.png](/screenshots/screen2.png)
 
-  - Click on _'Open in Atom'_.
+  - Click on _'Open in Atom'_
 ![image.png](/screenshots/screen3.png)
 
   - In Atom, you will see the conflict. Click on _'Use me'_ button near the changes which you want to keep.
