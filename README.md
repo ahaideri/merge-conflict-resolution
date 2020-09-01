@@ -13,7 +13,8 @@ To merge using GitHub Desktop -
 ![image.png](/screenshots/screen2.png)
 
   - Click on _'Open in Atom'_.
-  ![image.png](/screenshots/screen3.png)
+
+![image.png](/screenshots/screen3.png)
 
   - in Atom, you will see the conflict. Click on _'Use me'_ button near the changes which you want to keep.
   ![image.png](/screenshots/screen4.png)
