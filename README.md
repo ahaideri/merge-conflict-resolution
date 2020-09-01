@@ -7,7 +7,7 @@ In this example, we have a repository called _'merge-conflict-resolution'_ with 
 To merge using GitHub Desktop -
 
   - Click on _'Current branch'_ then click on _'Choose a branch to merge into **master**'_
-![image.png](/screenshots/image.png)
+![image.png](/screenshots/screen1.png)
 
   - Choose the branch ( _'branch1'_ ) and click on _'Merge'_. Note that you can already see that there will be a conflict
 ![image.png](attachment:image.png)
