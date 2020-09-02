@@ -5,7 +5,7 @@ Merge conflicts happen when you merge branches that have competing commits, and 
 In this example, we have a repository called _'merge-conflict-resolution'_ with a file called _'index.html'_ and two branches (_'master'_ and _'branch1'_ ). We have a merge conflict when trying to merge _'branch1'_ into _'master'_ because _'Hello World!'_ was committed to _'Hello Earth!'_ in _'master'_ and to _'Hello Mars!'_ in _'branch1'_
 
 * original _'index.html'_ file with _'Hello World!'_ on line 10 -
-![image.png](/screenshots/screen5.png)
+![image.png](/screenshots/screen9.png)
 
 * master _'index.html'_ file with _'Hello Earth!'_ on line 10 -
 ![image.png](/screenshots/screen6.png)
