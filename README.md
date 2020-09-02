@@ -1,8 +1,8 @@
-# Merge conflict resolution through GitHub Desktop and Atom
+# Merge conflict resolution using GitHub Desktop and Atom
 
-Merge conflicts happen when you merge branches that have competing commits, and Git needs your help to decide which changes to incorporate in the final merge. Let's look a quick example -
+Merge conflicts happen when you merge branches that have competing commits, and Git needs your help to decide which changes to incorporate in the final merge. Let's look at quick example to understand how a merge conflict can arise and how we can resolve it using GitHub Desktop and Atom-
 
-In this example, we have a repository called _'merge-conflict-resolution'_ with a file called _'index.html'_ and two branches (_'master'_ and _'branch1'_ ). We have a merge conflict when trying to merge _'branch1'_ into _'master'_ because _'Hello World!'_ was committed to _'Hello Earth!'_ in _'master'_ and to _'Hello Mars!'_ in _'branch1'_
+In this scenario, you are working with a teammate on a project and are using Git for version control. You create a repository called _'merge-conflict-resolution'_ with a _'Hello World'_ file called _'index.html'_ and two branches (_'master'_ and _'branch1'_). You are making changes on the _'master'_ branch and your teammate is making changes on the _'branch1'_ branch. A merge conflict occurs when you change _'Hello World'_ to _'Hello Earth'_ and your teammate changes it to _'Hello Mars'_. When you try to merge _'branch1'_ into _'master'_, you get a merge conflict.
 
 * original _'index.html'_ file with _'Hello World!'_ on line 10 -
 ![image.png](/screenshots/screen9.png)
@@ -13,7 +13,7 @@ In this example, we have a repository called _'merge-conflict-resolution'_ with 
 * _'branch1'_ _'index.html'_ file with _'Hello Mars!'_ on line 10 -
 ![image.png](/screenshots/screen7.png)
 
-* To merge using GitHub Desktop -
+* To merge this conflict using GitHub Desktop -
 
   - Click on _'Current branch'_ then click on _'Choose a branch to merge into **master**'_ in the bottom of the dropdown menu
 ![image.png](/screenshots/screen1.png)
@@ -25,9 +25,9 @@ In this example, we have a repository called _'merge-conflict-resolution'_ with 
 
   ![image.png](/screenshots/screen3.png)
 
-  - In Atom, you will see the conflict. Click on _'Use me'_ button near the changes which you want to keep.
+  - In Atom, you will see the conflict. Click on the _'Use me'_ button near the changes which you want to keep.
 ![image.png](/screenshots/screen4.png)
 
   - If you want to keep both changes, remove the headers (_'<<<'_, _'>>>'_ and _'==='_) and click on _'Dismiss'_
   ![image.png](/screenshots/screen11.png)
-  ###### Hurrah! Your merge conflict has been solved! Go ahead and complete the merge!
+  #### Hurrah! Your merge conflict has been resolved! Go ahead and complete the merge!
