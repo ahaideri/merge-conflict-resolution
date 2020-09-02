@@ -4,7 +4,16 @@ Merge conflicts happen when you merge branches that have competing commits, and 
 
 In this example, we have a repository called _'merge-conflict-resolution'_ with a file called _'index.html'_ and two branches (_'master'_ and _'branch1'_ ). We have a merge conflict when trying to merge _'branch1'_ into _'master'_ because _'Hello World!'_ was committed to _'Hello Earth!'_ in _'master'_ and to _'Hello Mars!'_ in _'branch1'_
 
-To merge using GitHub Desktop -
+* original _'index.html'_ file with _'Hello World!'_ on line 10 -
+![image.png](/screenshots/screen9.png)
+
+* master _'index.html'_ file with _'Hello Earth!'_ on line 10 -
+![image.png](/screenshots/screen6.png)
+
+* _'branch1'_ _'index.html'_ file with _'Hello Mars!'_ on line 10 -
+![image.png](/screenshots/screen7.png)
+
+* To merge using GitHub Desktop -
 
   - Click on _'Current branch'_ then click on _'Choose a branch to merge into **master**'_ in the bottom of the dropdown menu
 ![image.png](/screenshots/screen1.png)
