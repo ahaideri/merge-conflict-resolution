@@ -27,3 +27,6 @@ In this example, we have a repository called _'merge-conflict-resolution'_ with 
 
   - In Atom, you will see the conflict. Click on _'Use me'_ button near the changes which you want to keep.
 ![image.png](/screenshots/screen4.png)
+
+  - If you want to keep both changes, remove the headers (_'<<<'_, _'>>>'_ and _'==='_) and click on _'Dismiss'_
+  ![image.png](/screenshots/screen10.png)
