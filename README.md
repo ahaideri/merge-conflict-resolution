@@ -29,4 +29,5 @@ In this example, we have a repository called _'merge-conflict-resolution'_ with 
 ![image.png](/screenshots/screen4.png)
 
   - If you want to keep both changes, remove the headers (_'<<<'_, _'>>>'_ and _'==='_) and click on _'Dismiss'_
-  ![image.png](/screenshots/screen10.png)
+  ![image.png](/screenshots/screen11.png)
+  ###### Hurrah! Your merge conflict has been solved! Go ahead and complete the merge!
